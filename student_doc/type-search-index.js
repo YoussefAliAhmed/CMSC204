@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Assignments.Assignment1","l":"PasswordCheckerUtility"}];updateSearchResults();
